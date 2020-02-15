@@ -14,7 +14,7 @@
 zip化したフォルダをアップロード
 
 ### Lambdaの環境変数を設定する
-#### Twitter API
+#### TwitterAPIの環境変数
 CONSUMER_SECRET
 
 CONSUMER_KEY
@@ -22,7 +22,12 @@ CONSUMER_KEY
 ACCESS_TOKEN
 
 ACCESS_TOKEN_SECRET
-#### S3 Bucket Name
+#### S3BucketNameの環境変数
 S3_BUCKET_NAME
+
+#### SlackAPIの環境変数
+SLACK_TOKEN
+
+SLACK_CHANNEL
 
 ### LET's RUN!!!
